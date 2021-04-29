@@ -1,0 +1,124 @@
+import 'package:flutter/material.dart';
+import 'package:flutter/scheduler.dart';
+import 'package:google_maps_flutter/google_maps_flutter.dart';
+import 'package:move_app_1/src/pages/client/travel_map/client_travel_map_controller.dart';
+
+class ClientTravelMapPage extends StatefulWidget {
+  @override
+  _ClientTravelMapPageState createState() => _ClientTravelMapPageState();
+}
+
+class _ClientTravelMapPageState extends State<ClientTravelMapPage> {
+//
+
+  ClientTravelMapController _con = new ClientTravelMapController();
+
+  @override
+  void initState() {
+    super.initState();
+
+    SchedulerBinding.instance.addPostFrameCallback((timeStamp) {
+      _con.init(context, refresh);
+    });
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      key: _con.key,
+      body: Stack(
+        children: [
+          _googleMapsWidget(),
+          SafeArea(
+            child: Column(
+              children: [
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                  children: [
+                    //
+                    _buttonUserInfo(),
+                    _cardStatusInfo(_con.currentStatus),
+
+                    _buttonCenterPosition()
+                  ],
+                ),
+                Expanded(child: Container()),
+              ],
+            ),
+          )
+        ],
+      ),
+    );
+  }
+
+  Widget _cardStatusInfo(String status) {
+    return SafeArea(
+        child: Container(
+      width: 110,
+      padding: EdgeInsets.symmetric(vertical: 15),
+      margin: EdgeInsets.only(top: 15),
+      decoration: BoxDecoration(
+          color: _con.colorStatus,
+          borderRadius: BorderRadius.all(Radius.circular(20))),
+      child: Text(
+        "${status ?? ""}",
+        maxLines: 1,
+        textAlign: TextAlign.center,
+      ),
+    ));
+  }
+
+  Widget _buttonUserInfo() {
+    return GestureDetector(
+      onTap: _con.openBottonSheet,
+      child: Container(
+        alignment: Alignment.centerLeft,
+        margin: EdgeInsets.symmetric(horizontal: 10),
+        child: Card(
+          shape: CircleBorder(),
+          color: Colors.grey[300],
+          elevation: 8.0,
+          child: Container(
+            padding: EdgeInsets.all(15),
+            child: Icon(Icons.person, color: Colors.grey[800], size: 30),
+          ),
+        ),
+      ),
+    );
+  }
+
+  Widget _buttonCenterPosition() {
+    return GestureDetector(
+      onTap: () {},
+      child: Container(
+        alignment: Alignment.centerRight,
+        margin: EdgeInsets.symmetric(horizontal: 10),
+        child: Card(
+          shape: CircleBorder(),
+          color: Colors.grey[300],
+          elevation: 8.0,
+          child: Container(
+            padding: EdgeInsets.all(15),
+            child: Icon(Icons.location_searching,
+                color: Colors.grey[800], size: 30),
+          ),
+        ),
+      ),
+    );
+  }
+
+  Widget _googleMapsWidget() {
+    return GoogleMap(
+        mapType: MapType.normal,
+        initialCameraPosition: _con.initialPosition,
+        onMapCreated: _con.onMapCreated,
+        myLocationEnabled: false,
+        myLocationButtonEnabled: false,
+        markers: Set<Marker>.of(_con.markers.values),
+        polylines: _con.polylines);
+  }
+
+  void refresh() {
+    setState(() {});
+  }
+}

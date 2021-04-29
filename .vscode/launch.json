@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "move_app_1",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "flutter_package",
+      "cwd": "flutter_package",
+      "request": "launch",
+      "type": "dart"
+    }
+  ]
+}

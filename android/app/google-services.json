@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "863753394680",
+    "project_id": "move-on-6ada8",
+    "storage_bucket": "move-on-6ada8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863753394680:android:1dc18f5885b6a4aebd1e0d",
+        "android_client_info": {
+          "package_name": "com.move.move_app_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863753394680-lrjia24sfs1hrk3bk35ihcvprbiible7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB76LouA59mxcC_LXzJnEFDSt94qJ3BT70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863753394680-lrjia24sfs1hrk3bk35ihcvprbiible7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
