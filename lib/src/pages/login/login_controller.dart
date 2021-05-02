@@ -14,7 +14,7 @@ class LoginController {
   GlobalKey<ScaffoldState> key = new GlobalKey<ScaffoldState>();
 
   TextEditingController emailController = new TextEditingController();
-  TextEditingController passwordControler = new TextEditingController();
+  TextEditingController passwordController = new TextEditingController();
 
   AuthProvider _authProvider;
   ProgressDialog _progressDialog;
@@ -48,59 +48,83 @@ class LoginController {
 
   void login() async {
     String email = emailController.text.trim();
-    String password = passwordControler.text.trim();
+    String password = passwordController.text.trim();
 
     print("Email: $email");
     print("Password: $password");
-    _progressDialog.show();
+   
+
+    if (email.isEmpty && password.isEmpty) {
+     
+      print("Ingresar Todos los Caracteres");
+      utils.Snackbar.showSnackbar(
+          context, key, "Ingresar Todos los Caracteres");
+
+      return;
+    }
 //
-//
+    
 //
     try {
 //
-//
+     
 //
       bool isLogin = await _authProvider.login(email, password);
-      _progressDialog.hide();
-
+      
+        _progressDialog.show();
       if (isLogin) {
         print("Ingreso con Exito");
-//
-//
+        utils.Snackbar.showSnackbar(context, key, "Login con Exito");
+
+          
+        /////////////////CLIENTE/////////////////////////////7
         if (_typeUser == "client") {
           Client client =
               await _clientProvider.getById(_authProvider.getUser().uid);
+          _progressDialog.hide();
 
           print("CLIENT: $client");
 
           if (client != null) {
             Navigator.pushNamedAndRemoveUntil(
                 context, "client/map", (route) => false);
+            _progressDialog.hide();
           } else {
             utils.Snackbar.showSnackbar(context, key, "Usuario no Valido");
+
             await _authProvider.signOut();
+            _progressDialog.hide();
+            return;
           }
+          ////////////////CONDUCTOR//////////////////////
         } else if (_typeUser == "driver") {
           Driver driver =
               await _driverProvider.getById(_authProvider.getUser().uid);
+          _progressDialog.hide();
 
           print("DRIVER: $driver");
 
           if (driver != null) {
             Navigator.pushNamedAndRemoveUntil(
                 context, "driver/map", (route) => false);
+            _progressDialog.hide();
           } else {
             utils.Snackbar.showSnackbar(context, key, "Usuario no Valido");
             await _authProvider.signOut();
+            _progressDialog.hide();
+            return;
           }
         }
+        //////////////////////PASSWORD////////////////////////7
       } else {
         utils.Snackbar.showSnackbar(context, key, "Contraseña Incorrecta");
         print("Contraseña Incorrecta");
+        _progressDialog.hide();
       }
     } catch (error) {
       _progressDialog.hide();
       utils.Snackbar.showSnackbar(context, key, "Error: $error");
+      _progressDialog.hide();
       print("Error: $error");
     }
   }

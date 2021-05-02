@@ -32,12 +32,14 @@ class _DriverRegisterPageState extends State<DriverRegisterPage> {
 
   @override
   Widget build(BuildContext context) {
-  
-
     return Scaffold(
+        key: _con.key,
         appBar: AppBar(
-           backgroundColor: Color.fromRGBO(146, 113, 159, 1.0),
-          title: Text("Login", style: TextStyle(fontWeight: FontWeight.bold),),
+          backgroundColor: Color.fromRGBO(146, 113, 159, 1.0),
+          title: Text(
+            "Login",
+            style: TextStyle(fontWeight: FontWeight.bold),
+          ),
         ),
         body: Stack(
           children: <Widget>[
@@ -52,7 +54,6 @@ class _DriverRegisterPageState extends State<DriverRegisterPage> {
     final appTheme = Provider.of<ThemeChanger>(context).currentTheme;
     final size = MediaQuery.of(context).size;
     return SingleChildScrollView(
-      key: _con.key,
       child: Column(
         children: <Widget>[
           SafeArea(
@@ -76,24 +77,23 @@ class _DriverRegisterPageState extends State<DriverRegisterPage> {
                         spreadRadius: 5.0)
                   ]),
               child: Column(
-                
                 children: <Widget>[
                   FadeInLeftBig(
                       child:
-                   Text("Registro", style: TextStyle(fontSize: 25.0))),
+                          Text("Registro", style: TextStyle(fontSize: 25.0))),
                   //  _bannerApp(),
                   SizedBox(height: 20.0),
-                   _crearNombre(),
-                   SizedBox(height: 30.0),
+                  _crearNombre(),
+                  SizedBox(height: 30.0),
                   _crearEmail(),
                   SizedBox(height: 30.0),
                   _confirmarPassword(),
                   SizedBox(height: 30.0),
                   _crearPassword(),
                   SizedBox(height: 30.0),
-                   _textLicencePlate(),
-                   _numPlate(),
-                   SizedBox(height: 30.0),
+                  _textLicencePlate(),
+                  _numPlate(),
+                  SizedBox(height: 30.0),
                   JelloIn(child: _buttonRegister()),
                 ],
               ),
@@ -103,7 +103,7 @@ class _DriverRegisterPageState extends State<DriverRegisterPage> {
       ),
     );
   }
-   /* return Scaffold(
+  /* return Scaffold(
       key: _con.key,
       appBar: AppBar(),
       body: ListView(
@@ -144,10 +144,13 @@ class _DriverRegisterPageState extends State<DriverRegisterPage> {
 
   Widget _textLicencePlate() {
     return Container(
-      
       child: Text(
         "Ingresa Placa del Vehiculo",
-        style: TextStyle(color: Colors.grey[600], fontSize: 17, fontWeight: FontWeight.bold,),
+        style: TextStyle(
+          color: Colors.grey[600],
+          fontSize: 17,
+          fontWeight: FontWeight.bold,
+        ),
       ),
     );
   }
@@ -178,10 +181,7 @@ class _DriverRegisterPageState extends State<DriverRegisterPage> {
     });
   }
 
-
-
-
- /* Widget _crearNombre() {
+  /* Widget _crearNombre() {
     return TextField(
       controller: _con.usernameController,
       textCapitalization: TextCapitalization.sentences,
@@ -205,16 +205,11 @@ class _DriverRegisterPageState extends State<DriverRegisterPage> {
         alignment: Alignment.bottomCenter,
         margin: EdgeInsets.symmetric(horizontal: 40, vertical: 30),
         child: ButtonApp(
-            onPressed:  _con.register,
+            onPressed: _con.register,
             text: "REGISTRAR",
             color: appTheme.primaryColor,
-            textColor: Colors.white
-            )
-            );
+            textColor: Colors.white));
   }
-
-
-
 
 /*  Widget _buttonRegister() {
     var buttonApp = ButtonApp(
@@ -256,9 +251,7 @@ class _DriverRegisterPageState extends State<DriverRegisterPage> {
       },
     );
   }
-  
-  
-  
+
   /*Widget _crearEmail() {
     return Container(
       margin: EdgeInsets.symmetric(vertical: 5.0),
@@ -280,7 +273,7 @@ class _DriverRegisterPageState extends State<DriverRegisterPage> {
     );
   }*/
 
-Widget _confirmarPassword() {
+  Widget _confirmarPassword() {
     return StreamBuilder(
       builder: (BuildContext context, AsyncSnapshot snapshot) {
         final appTheme = Provider.of<ThemeChanger>(context).currentTheme;
@@ -327,7 +320,7 @@ Widget _confirmarPassword() {
     );
   }*/
 
-Widget _crearPassword() {
+  Widget _crearPassword() {
     return StreamBuilder(
       builder: (BuildContext context, AsyncSnapshot snapshot) {
         final appTheme = Provider.of<ThemeChanger>(context).currentTheme;
@@ -352,9 +345,6 @@ Widget _crearPassword() {
     );
   }
 
-
-
-
   /*Widget _crearPassword() {
     return Container(
       margin: EdgeInsets.symmetric(vertical: 1.0),
@@ -375,8 +365,8 @@ Widget _crearPassword() {
       ),
     );
   }*/
-Widget _bannerApp() {
-  final size = MediaQuery.of(context).size;
+  Widget _bannerApp() {
+    final size = MediaQuery.of(context).size;
     final fondoMorado = Container(
       height: size.height * 0.40,
       width: double.infinity,
@@ -443,16 +433,6 @@ Widget _bannerApp() {
       ],
     );
   }
-
-
-
-
-
-
-
-
-
-
 
 /*  Widget _bannerApp() {
     return ClipPath(

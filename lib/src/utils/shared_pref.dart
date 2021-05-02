@@ -1,5 +1,6 @@
 import 'dart:convert';
 
+import 'package:move_app_1/src/theme/theme.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class SharedPref {
@@ -27,5 +28,12 @@ class SharedPref {
   Future<bool> remove(String key) async {
     final prefs = await SharedPreferences.getInstance();
     return prefs.remove(key);
+  }
+
+  get ThemeChanger async {
+    SharedPreferences prefs = await SharedPreferences.getInstance();
+    _ThemeChanger() {
+      prefs.getInt("ThemeChanger");
+    }
   }
 }

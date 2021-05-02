@@ -33,9 +33,13 @@ class _ClientRegisterPageState extends State<ClientRegisterPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+        key: _con.key,
         appBar: AppBar(
           backgroundColor: Color.fromRGBO(146, 113, 159, 1.0),
-          title: Text("Login", style: TextStyle(fontWeight: FontWeight.bold),),
+          title: Text(
+            "Login",
+            style: TextStyle(fontWeight: FontWeight.bold),
+          ),
         ),
         body: Stack(
           children: <Widget>[
@@ -50,7 +54,6 @@ class _ClientRegisterPageState extends State<ClientRegisterPage> {
     final appTheme = Provider.of<ThemeChanger>(context).currentTheme;
     final size = MediaQuery.of(context).size;
     return SingleChildScrollView(
-      key: _con.key,
       child: Column(
         children: <Widget>[
           SafeArea(
@@ -174,18 +177,16 @@ class _ClientRegisterPageState extends State<ClientRegisterPage> {
   }*/
 
   Widget _buttonRegister() {
-     final appTheme = Provider.of<ThemeChanger>(context).currentTheme;
+    final appTheme = Provider.of<ThemeChanger>(context).currentTheme;
     return Container(
         height: 50,
         alignment: Alignment.bottomCenter,
         margin: EdgeInsets.symmetric(horizontal: 40, vertical: 30),
         child: ButtonApp(
-            onPressed:  _con.register,
+            onPressed: _con.register,
             text: "REGISTRAR",
             color: appTheme.primaryColor,
-            textColor: Colors.white
-            )
-            );
+            textColor: Colors.white));
   }
 
   /* Widget _buttonRegister() {
@@ -355,9 +356,7 @@ class _ClientRegisterPageState extends State<ClientRegisterPage> {
           gradient: LinearGradient(colors: <Color>[
             Color.fromRGBO(65, 60, 67, 1.0),
             Color.fromRGBO(146, 113, 159, 1.0),
-          ]
-          )
-          ),
+          ])),
     );
 
     final carro = Container(
@@ -416,22 +415,6 @@ class _ClientRegisterPageState extends State<ClientRegisterPage> {
     );
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* Widget _bannerApp() {
     final size = MediaQuery.of(context).size;

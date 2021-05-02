@@ -392,6 +392,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "mime_type",
+      "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/mime_type-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "modal_bottom_sheet",
       "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/modal_bottom_sheet-1.0.0+1",
       "packageUri": "lib/",
@@ -656,7 +662,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2021-04-29T05:49:20.201705Z",
+  "generated": "2021-05-01T18:01:04.030745Z",
   "generator": "pub",
   "generatorVersion": "2.14.0-18.0.dev"
 }

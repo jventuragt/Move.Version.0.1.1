@@ -131,7 +131,7 @@ class _LoginPageState extends State<LoginPage> {
   Widget _crearPassword() {
     return TextField(
       obscureText: true,
-      controller: _con.passwordControler,
+      controller: _con.passwordController,
       decoration: InputDecoration(
           border: OutlineInputBorder(borderRadius: BorderRadius.circular(25)),
           hintText: "Password",

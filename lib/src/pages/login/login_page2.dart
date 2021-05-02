@@ -35,6 +35,7 @@ class _LoginPage2State extends State<LoginPage2> {
     print("METODO BUID");
 
     return Scaffold(
+        key: _con.key,
         appBar: AppBar(
           backgroundColor: Color.fromRGBO(146, 113, 159, 1.0),
           title: Text(
@@ -77,7 +78,6 @@ class _LoginPage2State extends State<LoginPage2> {
                         spreadRadius: 4.0)
                   ]),
               child: Column(
-                key: _con.key,
                 children: <Widget>[
                   FadeInLeftBig(
                       child: Text("Ingreso", style: TextStyle(fontSize: 20.0))),
@@ -154,7 +154,7 @@ class _LoginPage2State extends State<LoginPage2> {
           padding: EdgeInsets.symmetric(horizontal: 20.0),
           child: TextField(
             obscureText: true,
-            controller: _con.passwordControler,
+            controller: _con.passwordController,
             decoration: InputDecoration(
               icon: Icon(Icons.lock_outline, color: appTheme.primaryColor),
               labelText: "Contraseña",
@@ -164,9 +164,7 @@ class _LoginPage2State extends State<LoginPage2> {
                 _email = valor;
               });
             },
-            
           ),
-          
         );
       },
     );
@@ -184,7 +182,6 @@ class _LoginPage2State extends State<LoginPage2> {
           color: appTheme.primaryColor,
           textColor: Colors.white),
     );
-    
   }
 
   Widget _crearFondo(BuildContext context) {

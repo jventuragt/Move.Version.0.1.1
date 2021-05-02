@@ -31,7 +31,7 @@ class DriverHistoryController {
 
   Future<List<TravelHistory>> getAll() async {
     return await _travelHistoryProvider
-        .getByIdDrive(_authProvider.getUser()?.uid);
+        .getByIdDrive(_authProvider?.getUser()?.uid);
   }
 
   void goToDetailHistory(String id) {

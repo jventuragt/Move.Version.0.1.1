@@ -14,14 +14,17 @@ import 'package:move_app_1/src/pages/driver/edit/driver_edit_page.dart';
 import 'package:move_app_1/src/pages/driver/history/driver_history_page.dart';
 import 'package:move_app_1/src/pages/driver/history_detail/driver_history_detail_page.dart';
 import 'package:move_app_1/src/pages/driver/map/driver_map_page.dart';
+import 'package:move_app_1/src/pages/driver/register/driver_mostrar_imagenes.dart';
 import 'package:move_app_1/src/pages/driver/register/driver_register_page.dart';
+import 'package:move_app_1/src/pages/driver/register/imagenes_driver_pages.dart';
 import 'package:move_app_1/src/pages/driver/travel_calification/driver_travel_calification_page.dart';
 import 'package:move_app_1/src/pages/driver/travel_map/driver_travel_map_page.dart';
 import 'package:move_app_1/src/pages/driver/travel_request/driver_travel_request_page.dart';
-import 'package:move_app_1/src/pages/login/login_page.dart';
+//import 'package:move_app_1/src/pages/login/login_page.dart';
 import 'package:move_app_1/src/pages/login/login_page2.dart';
 import 'package:move_app_1/src/providers/push_notification_provider.dart';
 import 'package:move_app_1/src/theme/theme.dart';
+import 'package:move_app_1/src/utils/shared_pref.dart';
 import 'package:provider/provider.dart';
 
 import 'src/pages/home/home_page.dart';
@@ -39,8 +42,10 @@ void main() async {
   await Firebase.initializeApp();
 
   FirebaseMessaging.onBackgroundMessage(_firebaseMessagingBackgroundHandler);
-
-  runApp(ChangeNotifierProvider(create: (_) => ThemeChanger(2), child: MyApp()));
+  SharedPref();
+  runApp(
+    
+      ChangeNotifierProvider(create: (_) => ThemeChanger(2), child: MyApp()));
 }
 
 class MyApp extends StatefulWidget {
@@ -59,7 +64,7 @@ class _MyAppState extends State<MyApp> {
     pushNotificationsProvider.initPushNotifications();
 
     pushNotificationsProvider.message.listen((data) {
-    //  print("----------------NOTIFICACION NUEVA--------");
+      //  print("----------------NOTIFICACION NUEVA--------");
       //print(data);
 
       navigatorKey.currentState
@@ -82,7 +87,7 @@ class _MyAppState extends State<MyApp> {
       //),
       routes: {
         "home": (BuildContext context) => HomePage(),
-         //"login": (BuildContext context) => LoginPage(),
+        // "login": (BuildContext context) => LoginPage(),
         "login": (BuildContext context) => LoginPage2(),
         "client/register": (BuildContext context) => ClientRegisterPage(),
         "driver/register": (BuildContext context) => DriverRegisterPage(),
@@ -107,6 +112,11 @@ class _MyAppState extends State<MyApp> {
             ClientHistoryDetailPage(),
         "driver/history/detail": (BuildContext context) =>
             DriverHistoryDetailPage(),
+            "imagenes/driver": (BuildContext context) =>
+            ImagenesDriverPage(),
+            "driver/mostrar/imagenes": (BuildContext context) =>
+            DriverMostrarImagenes(),
+            
       },
     );
   }

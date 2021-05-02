@@ -88,6 +88,14 @@ class DriverMapController {
     Navigator.pushNamed(context, "driver/history");
   }
 
+  void goToImagenesDriverPages() {
+    Navigator.pushNamed(context, "imagenes/driver");
+  }
+
+   void goToDriverMostrarImagenes() {
+    Navigator.pushNamed(context, "driver/mostrar/imagenes");
+  }
+
   void dispose() {
     _positionStream?.cancel();
     _statusSuscription?.cancel();
