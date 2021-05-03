@@ -1,14 +1,14 @@
 [
     {
-        "merged": "C:\\Users\\ravzc\\Desktop\\move_app_1 - copia 28_04\\build\\location\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_tint.xml",
-        "source": "C:\\Users\\ravzc\\.gradle\\caches\\transforms-2\\files-2.1\\a7f82b91e3d6afcc25a3a75c306de8a2\\jetified-play-services-base-16.0.1\\res\\color\\common_google_signin_btn_tint.xml"
+        "merged": "C:\\Users\\ravzc\\Desktop\\move_app_1 -Release-\\build\\location\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\ravzc\\.gradle\\caches\\transforms-2\\files-2.1\\a7f82b91e3d6afcc25a3a75c306de8a2\\jetified-play-services-base-16.0.1\\res\\color\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "C:\\Users\\ravzc\\Desktop\\move_app_1 - copia 28_04\\build\\location\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "merged": "C:\\Users\\ravzc\\Desktop\\move_app_1 -Release-\\build\\location\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
         "source": "C:\\Users\\ravzc\\.gradle\\caches\\transforms-2\\files-2.1\\a7f82b91e3d6afcc25a3a75c306de8a2\\jetified-play-services-base-16.0.1\\res\\color\\common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "C:\\Users\\ravzc\\Desktop\\move_app_1 - copia 28_04\\build\\location\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\Users\\ravzc\\.gradle\\caches\\transforms-2\\files-2.1\\a7f82b91e3d6afcc25a3a75c306de8a2\\jetified-play-services-base-16.0.1\\res\\color\\common_google_signin_btn_text_light.xml"
+        "merged": "C:\\Users\\ravzc\\Desktop\\move_app_1 -Release-\\build\\location\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\ravzc\\.gradle\\caches\\transforms-2\\files-2.1\\a7f82b91e3d6afcc25a3a75c306de8a2\\jetified-play-services-base-16.0.1\\res\\color\\common_google_signin_btn_tint.xml"
     }
 ]

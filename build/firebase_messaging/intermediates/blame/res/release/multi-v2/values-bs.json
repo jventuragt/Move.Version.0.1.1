@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\ravzc\\Desktop\\move_app_1 - copia 28_04\\build\\firebase_messaging\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-bs\\values-bs.xml",
+            "outputFile": "C:\\Users\\ravzc\\Desktop\\move_app_1 -Release-\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\values-bs\\values-bs.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ravzc\\.gradle\\caches\\transforms-2\\files-2.1\\01c63897a8b1510a297b231251081245\\jetified-play-services-base-17.0.0\\res\\values-bs\\values.xml",
@@ -74,7 +74,7 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\ravzc\\Desktop\\move_app_1 - copia 28_04\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\values-bs\\values-bs.xml",
+            "outputFile": "C:\\Users\\ravzc\\Desktop\\move_app_1 -Release-\\build\\firebase_messaging\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-bs\\values-bs.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ravzc\\.gradle\\caches\\transforms-2\\files-2.1\\01c63897a8b1510a297b231251081245\\jetified-play-services-base-17.0.0\\res\\values-bs\\values.xml",

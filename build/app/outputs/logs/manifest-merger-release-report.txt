@@ -1,26 +1,26 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:1:1-64:12
-INJECTED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:1:1-64:12
-INJECTED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:1:1-64:12
-INJECTED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:1:1-64:12
-MERGED from [:firebase_storage] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:2:1-15:12
-MERGED from [:google_api_headers] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\google_api_headers\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
-MERGED from [:package_info] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\package_info\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
-MERGED from [:google_maps_flutter] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\google_maps_flutter\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
-MERGED from [:image_picker] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:2:1-22:12
-MERGED from [:flutter_plugin_android_lifecycle] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
-MERGED from [:geocoder] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\geocoder\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
-MERGED from [:geocoding] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\geocoding\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
-MERGED from [:geolocator] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\geolocator\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
-MERGED from [:location] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\location\intermediates\library_manifest\release\AndroidManifest.xml:2:1-18:12
-MERGED from [:location_web] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\location_web\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
-MERGED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:2:1-46:12
-MERGED from [:url_launcher] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:2:1-14:12
-MERGED from [:cloud_firestore] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:2:1-15:12
-MERGED from [:shared_preferences] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\shared_preferences\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
-MERGED from [:firebase_auth] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:2:1-15:12
-MERGED from [:firebase_core] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:2:1-15:12
+ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:1:1-64:12
+INJECTED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:1:1-64:12
+INJECTED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:1:1-64:12
+INJECTED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:1:1-64:12
+MERGED from [:firebase_storage] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:2:1-15:12
+MERGED from [:google_api_headers] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\google_api_headers\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:package_info] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\package_info\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:google_maps_flutter] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\google_maps_flutter\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:2:1-22:12
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:geocoder] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\geocoder\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:geocoding] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\geocoding\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:geolocator] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\geolocator\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:location] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\location\intermediates\library_manifest\release\AndroidManifest.xml:2:1-18:12
+MERGED from [:location_web] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\location_web\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:2:1-46:12
+MERGED from [:url_launcher] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:2:1-14:12
+MERGED from [:cloud_firestore] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:2:1-15:12
+MERGED from [:shared_preferences] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\shared_preferences\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_auth] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:2:1-15:12
 MERGED from [com.google.firebase:firebase-storage:19.2.1] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\a71099b96f124263fbb9238043175982\jetified-firebase-storage-19.2.1\AndroidManifest.xml:15:1-39:12
 MERGED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\db87e25fdbcdbcca7d7d970a827ebf19\jetified-firebase-auth-20.0.1\AndroidManifest.xml:17:1-83:12
 MERGED from [com.google.firebase:firebase-messaging:21.0.1] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\054e28d384d170ac9b15fd090d9cee2d\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:17:1-45:12
@@ -70,81 +70,81 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ravzc\.gradle\ca
 MERGED from [androidx.print:print:1.0.0] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\3e0dfd84821e58b66cb5460a5878654a\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:protolite-well-known-types:17.1.1] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\06a4f6c7382c23a1d96b747b5325e2f4\jetified-protolite-well-known-types-17.1.1\AndroidManifest.xml:2:1-11:12
 MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\9bc76f5e9458e479aefd14a57d35d7da\jetified-grpc-android-1.28.0\AndroidManifest.xml:2:1-13:12
-INJECTED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:1:1-64:12
-INJECTED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:1:1-64:12
-INJECTED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:1:1-64:12
+INJECTED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:1:1-64:12
+INJECTED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:1:1-64:12
+INJECTED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:1:1-64:12
 	package
-		ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:2:5-34
-		INJECTED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:2:5-34
+		INJECTED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:1:1-64:12
-		INJECTED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:1:1-64:12
+		INJECTED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:1:1-64:12
-		INJECTED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:1:1-64:12
+		INJECTED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-permission#anroid.permission.INTERNET
-ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:4:5-66
+ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:4:5-66
 	android:name
-		ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:4:22-63
+		ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:4:22-63
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:5:5-79
-MERGED from [:location] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\location\intermediates\library_manifest\release\AndroidManifest.xml:8:5-79
-MERGED from [:location] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\location\intermediates\library_manifest\release\AndroidManifest.xml:8:5-79
+ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:5:5-79
+MERGED from [:location] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\location\intermediates\library_manifest\release\AndroidManifest.xml:8:5-79
+MERGED from [:location] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\location\intermediates\library_manifest\release\AndroidManifest.xml:8:5-79
 	android:name
-		ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:5:22-76
+		ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:5:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:6:5-81
-MERGED from [:location] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\location\intermediates\library_manifest\release\AndroidManifest.xml:7:5-81
-MERGED from [:location] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\location\intermediates\library_manifest\release\AndroidManifest.xml:7:5-81
+ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:6:5-81
+MERGED from [:location] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\location\intermediates\library_manifest\release\AndroidManifest.xml:7:5-81
+MERGED from [:location] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\location\intermediates\library_manifest\release\AndroidManifest.xml:7:5-81
 	android:name
-		ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:6:22-78
+		ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:6:22-78
 uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
-ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:7:5-85
+ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:7:5-85
 	android:name
-		ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:7:22-82
+		ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:7:22-82
 uses-permission#android.permission.CAMERA
-ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:8:5-65
+ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:8:5-65
 	android:name
-		ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:8:22-62
+		ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:8:22-62
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:9:5-80
-MERGED from [:image_picker] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:7:5-80
-MERGED from [:image_picker] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:7:5-80
+ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:9:5-80
+MERGED from [:image_picker] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:7:5-80
+MERGED from [:image_picker] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:7:5-80
 	android:name
-		ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:9:22-77
+		ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:9:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:10:5-81
-MERGED from [:image_picker] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:8:5-81
-MERGED from [:image_picker] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:8:5-81
+ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:10:5-81
+MERGED from [:image_picker] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:8:5-81
+MERGED from [:image_picker] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:8:5-81
 	android:name
-		ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:10:22-78
+		ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:10:22-78
 uses-permission#android.permission.ACTION_GET_CONTENT
-ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:11:5-77
+ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:11:5-77
 	android:name
-		ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:11:22-74
+		ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:11:22-74
 application
-ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:14:5-63:19
-MERGED from [:firebase_storage] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_storage] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:7:5-13:19
-MERGED from [:image_picker] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:10:5-20:19
-MERGED from [:image_picker] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:10:5-20:19
-MERGED from [:location] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\location\intermediates\library_manifest\release\AndroidManifest.xml:10:5-16:19
-MERGED from [:location] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\location\intermediates\library_manifest\release\AndroidManifest.xml:10:5-16:19
-MERGED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:11:5-44:19
-MERGED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:11:5-44:19
-MERGED from [:url_launcher] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:7:5-12:19
-MERGED from [:url_launcher] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:7:5-12:19
-MERGED from [:cloud_firestore] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:7:5-13:19
-MERGED from [:cloud_firestore] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_auth] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_auth] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_core] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_core] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:7:5-13:19
+ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:14:5-63:19
+MERGED from [:firebase_storage] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_storage] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:7:5-13:19
+MERGED from [:image_picker] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:10:5-20:19
+MERGED from [:image_picker] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:10:5-20:19
+MERGED from [:location] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\location\intermediates\library_manifest\release\AndroidManifest.xml:10:5-16:19
+MERGED from [:location] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\location\intermediates\library_manifest\release\AndroidManifest.xml:10:5-16:19
+MERGED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:11:5-44:19
+MERGED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:11:5-44:19
+MERGED from [:url_launcher] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:7:5-12:19
+MERGED from [:cloud_firestore] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:7:5-13:19
 MERGED from [com.google.firebase:firebase-storage:19.2.1] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\a71099b96f124263fbb9238043175982\jetified-firebase-storage-19.2.1\AndroidManifest.xml:29:5-37:19
 MERGED from [com.google.firebase:firebase-storage:19.2.1] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\a71099b96f124263fbb9238043175982\jetified-firebase-storage-19.2.1\AndroidManifest.xml:29:5-37:19
 MERGED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\db87e25fdbcdbcca7d7d970a827ebf19\jetified-firebase-auth-20.0.1\AndroidManifest.xml:26:5-81:19
@@ -192,109 +192,109 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ra
 MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\c34c206db069c9b9a931cdb6e11d0dfd\jetified-transport-runtime-2.2.5\AndroidManifest.xml:25:5-39:19
 MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\c34c206db069c9b9a931cdb6e11d0dfd\jetified-transport-runtime-2.2.5\AndroidManifest.xml:25:5-39:19
 	android:requestLegacyExternalStorage
-		ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:17:9-52
+		ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:17:9-52
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.2] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\0d2ee4fd02ecfe777ab90f554693f370\core-1.3.2\AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:16:9-29
+		ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:16:9-29
 	android:icon
-		ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:15:9-45
+		ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:15:9-45
 activity#com.move.move_app_1.MainActivity
-ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:18:9-52:20
+ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:18:9-52:20
 	android:launchMode
-		ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:22:13-43
+		ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:22:13-43
 	android:hardwareAccelerated
-		ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:21:13-47
+		ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:21:13-47
 	android:windowSoftInputMode
-		ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:24:13-55
+		ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:24:13-55
 	android:configChanges
-		ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:20:13-163
+		ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:20:13-163
 	android:theme
-		ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:23:13-47
+		ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:23:13-47
 	android:name
-		ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:19:13-41
+		ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:19:13-41
 meta-data#io.flutter.embedding.android.NormalTheme
-ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:29:13-31:57
+ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:29:13-31:57
 	android:resource
-		ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:31:17-54
+		ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:31:17-54
 	android:name
-		ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:30:17-72
+		ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:30:17-72
 meta-data#io.flutter.embedding.android.SplashScreenDrawable
-ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:37:13-39:66
+ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:37:13-39:66
 	android:resource
-		ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:39:17-63
+		ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:39:17-63
 	android:name
-		ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:38:17-81
+		ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:38:17-81
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:41:13-44:29
+ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:41:13-44:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:42:17-69
+ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:42:17-69
 	android:name
-		ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:42:25-66
+		ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:42:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:43:17-77
+ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:43:17-77
 	android:name
-		ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:43:27-74
+		ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:43:27-74
 intent-filter#action:name:FLUTTER_NOTIFICATION_CLICK+category:name:android.intent.category.DEFAULT
-ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:46:13-49:29
+ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:46:13-49:29
 action#FLUTTER_NOTIFICATION_CLICK
-ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:47:17-69
+ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:47:17-69
 	android:name
-		ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:47:25-66
+		ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:47:25-66
 category#android.intent.category.DEFAULT
-ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:48:17-76
+ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:48:17-76
 	android:name
-		ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:48:27-73
+		ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:48:27-73
 meta-data#flutterEmbedding
-ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:55:9-57:33
+ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:55:9-57:33
 	android:value
-		ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:57:13-30
+		ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:57:13-30
 	android:name
-		ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:56:13-44
+		ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:56:13-44
 meta-data#com.google.android.geo.API_KEY
-ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:59:9-61:71
+ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:59:9-61:71
 	android:value
-		ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:61:13-68
+		ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:61:13-68
 	android:name
-		ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:60:13-58
+		ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:60:13-58
 uses-sdk
-INJECTED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml
-MERGED from [:firebase_storage] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_storage] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:google_api_headers] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\google_api_headers\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:google_api_headers] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\google_api_headers\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:package_info] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\package_info\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:package_info] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\package_info\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:google_maps_flutter] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\google_maps_flutter\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:google_maps_flutter] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\google_maps_flutter\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:image_picker] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:image_picker] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:flutter_plugin_android_lifecycle] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:flutter_plugin_android_lifecycle] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:geocoder] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\geocoder\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:geocoder] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\geocoder\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:geocoding] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\geocoding\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:geocoding] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\geocoding\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:geolocator] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\geolocator\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:geolocator] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\geolocator\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:location] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\location\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:location] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\location\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:location_web] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\location_web\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:location_web] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\location_web\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:url_launcher] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:url_launcher] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:cloud_firestore] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:cloud_firestore] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:shared_preferences] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\shared_preferences\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:shared_preferences] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\shared_preferences\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_auth] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_auth] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_core] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_core] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+INJECTED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml
+MERGED from [:firebase_storage] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:google_api_headers] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\google_api_headers\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:google_api_headers] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\google_api_headers\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:package_info] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\package_info\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:package_info] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\package_info\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:google_maps_flutter] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\google_maps_flutter\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:google_maps_flutter] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\google_maps_flutter\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:geocoder] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\geocoder\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:geocoder] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\geocoder\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:geocoding] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\geocoding\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:geocoding] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\geocoding\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:geolocator] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\geolocator\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:geolocator] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\geolocator\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:location] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\location\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:location] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\location\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:location_web] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\location_web\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:location_web] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\location_web\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\shared_preferences\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\shared_preferences\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-storage:19.2.1] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\a71099b96f124263fbb9238043175982\jetified-firebase-storage-19.2.1\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.firebase:firebase-storage:19.2.1] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\a71099b96f124263fbb9238043175982\jetified-firebase-storage-19.2.1\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\db87e25fdbcdbcca7d7d970a827ebf19\jetified-firebase-auth-20.0.1\AndroidManifest.xml:21:5-44
@@ -393,26 +393,26 @@ MERGED from [com.google.firebase:protolite-well-known-types:17.1.1] C:\Users\rav
 MERGED from [com.google.firebase:protolite-well-known-types:17.1.1] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\06a4f6c7382c23a1d96b747b5325e2f4\jetified-protolite-well-known-types-17.1.1\AndroidManifest.xml:7:5-9:41
 MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\9bc76f5e9458e479aefd14a57d35d7da\jetified-grpc-android-1.28.0\AndroidManifest.xml:7:5-9:41
 MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\9bc76f5e9458e479aefd14a57d35d7da\jetified-grpc-android-1.28.0\AndroidManifest.xml:7:5-9:41
-INJECTED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [:firebase_storage] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:33:9-37:19
-MERGED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:33:9-37:19
-MERGED from [:cloud_firestore] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
-MERGED from [:cloud_firestore] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_auth] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_auth] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_core] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_core] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
+ADDED from [:firebase_storage] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:33:9-37:19
+MERGED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:33:9-37:19
+MERGED from [:cloud_firestore] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
 MERGED from [com.google.firebase:firebase-storage:19.2.1] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\a71099b96f124263fbb9238043175982\jetified-firebase-storage-19.2.1\AndroidManifest.xml:30:9-36:19
 MERGED from [com.google.firebase:firebase-storage:19.2.1] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\a71099b96f124263fbb9238043175982\jetified-firebase-storage-19.2.1\AndroidManifest.xml:30:9-36:19
 MERGED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\db87e25fdbcdbcca7d7d970a827ebf19\jetified-firebase-auth-20.0.1\AndroidManifest.xml:74:9-80:19
@@ -436,41 +436,41 @@ MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\ravzc\.gradle\
 	android:directBootAware
 		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\dd968dfc43917b6cad7560bdeef17a27\jetified-firebase-common-19.5.0\AndroidManifest.xml:35:13-43
 	android:name
-		ADDED from [:firebase_storage] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:8:18-89
+		ADDED from [:firebase_storage] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:8:18-89
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar
-ADDED from [:firebase_storage] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
+ADDED from [:firebase_storage] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:firebase_storage] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
+		ADDED from [:firebase_storage] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:firebase_storage] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:10:17-126
+		ADDED from [:firebase_storage] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:10:17-126
 provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
-ADDED from [:image_picker] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:11:9-19:20
+ADDED from [:image_picker] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:11:9-19:20
 	android:grantUriPermissions
-		ADDED from [:image_picker] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:15:13-47
+		ADDED from [:image_picker] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:15:13-47
 	android:authorities
-		ADDED from [:image_picker] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:13:13-74
+		ADDED from [:image_picker] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:13:13-74
 	android:exported
-		ADDED from [:image_picker] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:14:13-37
+		ADDED from [:image_picker] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:14:13-37
 	android:name
-		ADDED from [:image_picker] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:12:13-82
+		ADDED from [:image_picker] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:12:13-82
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [:image_picker] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:16:13-18:75
+ADDED from [:image_picker] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:16:13-18:75
 	android:resource
-		ADDED from [:image_picker] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:18:17-72
+		ADDED from [:image_picker] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:18:17-72
 	android:name
-		ADDED from [:image_picker] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:17:17-67
+		ADDED from [:image_picker] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:17:17-67
 service#com.lyokone.location.FlutterLocationService
-ADDED from [:location] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\location\intermediates\library_manifest\release\AndroidManifest.xml:11:9-15:56
+ADDED from [:location] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\location\intermediates\library_manifest\release\AndroidManifest.xml:11:9-15:56
 	android:enabled
-		ADDED from [:location] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\location\intermediates\library_manifest\release\AndroidManifest.xml:13:13-35
+		ADDED from [:location] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\location\intermediates\library_manifest\release\AndroidManifest.xml:13:13-35
 	android:exported
-		ADDED from [:location] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\location\intermediates\library_manifest\release\AndroidManifest.xml:14:13-37
+		ADDED from [:location] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\location\intermediates\library_manifest\release\AndroidManifest.xml:14:13-37
 	android:foregroundServiceType
-		ADDED from [:location] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\location\intermediates\library_manifest\release\AndroidManifest.xml:15:13-53
+		ADDED from [:location] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\location\intermediates\library_manifest\release\AndroidManifest.xml:15:13-53
 	android:name
-		ADDED from [:location] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\location\intermediates\library_manifest\release\AndroidManifest.xml:12:13-71
+		ADDED from [:location] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\location\intermediates\library_manifest\release\AndroidManifest.xml:12:13-71
 uses-permission#android.permission.INTERNET
-ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:7:5-67
+ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:7:5-67
 MERGED from [com.google.firebase:firebase-storage:19.2.1] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\a71099b96f124263fbb9238043175982\jetified-firebase-storage-19.2.1\AndroidManifest.xml:27:5-67
 MERGED from [com.google.firebase:firebase-storage:19.2.1] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\a71099b96f124263fbb9238043175982\jetified-firebase-storage-19.2.1\AndroidManifest.xml:27:5-67
 MERGED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\db87e25fdbcdbcca7d7d970a827ebf19\jetified-firebase-auth-20.0.1\AndroidManifest.xml:23:5-67
@@ -488,17 +488,17 @@ MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Use
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\27a7ef8b423c0a9b2d04d7e34ad3aae2\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:26:5-67
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\27a7ef8b423c0a9b2d04d7e34ad3aae2\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:26:5-67
 	android:name
-		ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:7:22-64
+		ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:7:22-64
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:8:5-68
+ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:8:5-68
 MERGED from [com.google.firebase:firebase-iid:21.0.1] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\74515ef9b8bd3627347c98a3a961702f\jetified-firebase-iid-21.0.1\AndroidManifest.xml:24:5-68
 MERGED from [com.google.firebase:firebase-iid:21.0.1] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\74515ef9b8bd3627347c98a3a961702f\jetified-firebase-iid-21.0.1\AndroidManifest.xml:24:5-68
 MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\82c800496f3dbd4018058ceff8f1b79d\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:9:5-68
 MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\82c800496f3dbd4018058ceff8f1b79d\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:9:5-68
 	android:name
-		ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:8:22-65
+		ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:8:22-65
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:9:5-79
+ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:9:5-79
 MERGED from [com.google.firebase:firebase-storage:19.2.1] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\a71099b96f124263fbb9238043175982\jetified-firebase-storage-19.2.1\AndroidManifest.xml:26:5-79
 MERGED from [com.google.firebase:firebase-storage:19.2.1] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\a71099b96f124263fbb9238043175982\jetified-firebase-storage-19.2.1\AndroidManifest.xml:26:5-79
 MERGED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\db87e25fdbcdbcca7d7d970a827ebf19\jetified-firebase-auth-20.0.1\AndroidManifest.xml:24:5-79
@@ -520,83 +520,83 @@ MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\
 MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\9bc76f5e9458e479aefd14a57d35d7da\jetified-grpc-android-1.28.0\AndroidManifest.xml:11:5-79
 MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\9bc76f5e9458e479aefd14a57d35d7da\jetified-grpc-android-1.28.0\AndroidManifest.xml:11:5-79
 	android:name
-		ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:9:22-76
+		ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:9:22-76
 service#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingBackgroundService
-ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:12:9-15:72
+ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:12:9-15:72
 	android:exported
-		ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:14:13-37
+		ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:14:13-37
 	android:permission
-		ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:15:13-69
+		ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:15:13-69
 	android:name
-		ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:13:13-107
+		ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:13:13-107
 service#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingService
-ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:16:9-22:19
+ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:16:9-22:19
 	android:exported
-		ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:18:13-37
+		ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:18:13-37
 	android:name
-		ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:17:13-97
+		ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:17:13-97
 intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:19:13-21:29
+ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:19:13-21:29
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:20:17-78
+ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:20:17-78
 	android:name
-		ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:20:25-75
+		ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:20:25-75
 receiver#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingReceiver
-ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:24:9-31:20
+ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:24:9-31:20
 	android:exported
-		ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:26:13-36
+		ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:26:13-36
 	android:permission
-		ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:27:13-73
+		ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:27:13-73
 	android:name
-		ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:25:13-98
+		ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:25:13-98
 intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
-ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:28:13-30:29
+ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:28:13-30:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:29:17-81
+ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:29:17-81
 	android:name
-		ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:29:25-78
+		ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:29:25-78
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.messaging.FlutterFirebaseAppRegistrar
-ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:34:13-36:85
+ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:34:13-36:85
 	android:value
-		ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:36:17-82
+		ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:36:17-82
 	android:name
-		ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:35:17-128
+		ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:35:17-128
 provider#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingInitProvider
-ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:39:9-43:38
+ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:39:9-43:38
 	android:authorities
-		ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:41:13-88
+		ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:41:13-88
 	android:exported
-		ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:42:13-37
+		ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:42:13-37
 	android:initOrder
-		ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:43:13-35
+		ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:43:13-35
 	android:name
-		ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:40:13-102
+		ADDED from [:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:40:13-102
 activity#io.flutter.plugins.urllauncher.WebViewActivity
-ADDED from [:url_launcher] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:8:9-11:74
+ADDED from [:url_launcher] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:8:9-11:74
 	android:exported
-		ADDED from [:url_launcher] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:10:13-37
+		ADDED from [:url_launcher] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:10:13-37
 	android:theme
-		ADDED from [:url_launcher] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:11:13-71
+		ADDED from [:url_launcher] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:11:13-71
 	android:name
-		ADDED from [:url_launcher] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:9:13-74
+		ADDED from [:url_launcher] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:9:13-74
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar
-ADDED from [:cloud_firestore] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
+ADDED from [:cloud_firestore] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:cloud_firestore] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
+		ADDED from [:cloud_firestore] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:cloud_firestore] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:10:17-134
+		ADDED from [:cloud_firestore] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:10:17-134
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar
-ADDED from [:firebase_auth] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
+ADDED from [:firebase_auth] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:firebase_auth] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
+		ADDED from [:firebase_auth] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:firebase_auth] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:10:17-124
+		ADDED from [:firebase_auth] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:10:17-124
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
-ADDED from [:firebase_core] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
+ADDED from [:firebase_core] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:firebase_core] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
+		ADDED from [:firebase_core] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:firebase_core] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:10:17-124
+		ADDED from [:firebase_core] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:10:17-124
 meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
 ADDED from [com.google.firebase:firebase-storage:19.2.1] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\a71099b96f124263fbb9238043175982\jetified-firebase-storage-19.2.1\AndroidManifest.xml:33:13-35:85
 	android:value

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\ravzc\\Desktop\\move_app_1 - copia 28_04\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\ravzc\\Desktop\\move_app_1 -Release-\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ravzc\\.gradle\\caches\\transforms-2\\files-2.1\\27da54a93ec8b963da3917c5bcb22390\\jetified-play-services-base-17.1.0\\res\\values\\values.xml",
@@ -61,7 +61,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ravzc\\Desktop\\move_app_1 - copia 28_04\\build\\app\\generated\\res\\google-services\\release\\values\\values.xml",
+                    "source": "C:\\Users\\ravzc\\Desktop\\move_app_1 -Release-\\build\\app\\generated\\res\\google-services\\release\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",
@@ -78,7 +78,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ravzc\\Desktop\\move_app_1 - copia 28_04\\build\\location\\intermediates\\packaged_res\\release\\values\\values.xml",
+                    "source": "C:\\Users\\ravzc\\Desktop\\move_app_1 -Release-\\build\\location\\intermediates\\packaged_res\\release\\values\\values.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -92,25 +92,6 @@
                         "startOffsets": "8496",
                         "endColumns": "82",
                         "endOffsets": "8574"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\ravzc\\Desktop\\move_app_1 - copia 28_04\\android\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "176,830",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "472,996"
-                    },
-                    "to": {
-                        "startLines": "114,119",
-                        "startColumns": "4,4",
-                        "startOffsets": "8724,9021",
-                        "endLines": "118,121",
-                        "endColumns": "12,12",
-                        "endOffsets": "9016,9185"
                     }
                 },
                 {
@@ -145,6 +126,25 @@
                         "startOffsets": "7902",
                         "endColumns": "81",
                         "endOffsets": "7979"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ravzc\\Desktop\\move_app_1 -Release-\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "176,830",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,996"
+                    },
+                    "to": {
+                        "startLines": "114,119",
+                        "startColumns": "4,4",
+                        "startOffsets": "8724,9021",
+                        "endLines": "118,121",
+                        "endColumns": "12,12",
+                        "endOffsets": "9016,9185"
                     }
                 }
             ]

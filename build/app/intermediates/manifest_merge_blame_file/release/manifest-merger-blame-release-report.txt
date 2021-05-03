@@ -6,43 +6,43 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml
+8-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="30" />
-9-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml
+9-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="anroid.permission.INTERNET" />
-11-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:4:5-66
-11-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:4:22-63
+11-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:4:5-66
+11-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:4:22-63
 12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-12-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:5:5-79
-12-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:5:22-76
+12-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:5:5-79
+12-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:5:22-76
 13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-13-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:6:5-81
-13-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:6:22-78
+13-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:6:5-81
+13-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:6:22-78
 14    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
-14-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:7:5-85
-14-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:7:22-82
+14-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:7:5-85
+14-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:7:22-82
 15    <uses-permission android:name="android.permission.CAMERA" />
-15-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:8:5-65
-15-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:8:22-62
+15-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:8:5-65
+15-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:8:22-62
 16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-16-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:9:5-80
-16-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:9:22-77
+16-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:9:5-80
+16-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:9:22-77
 17    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-17-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:10:5-81
-17-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:10:22-78
+17-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:10:5-81
+17-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:10:22-78
 18    <uses-permission android:name="android.permission.ACTION_GET_CONTENT" />
-18-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:11:5-77
-18-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:11:22-74
+18-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:11:5-77
+18-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:11:22-74
 19    <uses-permission android:name="android.permission.INTERNET" />
-19-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:7:5-67
-19-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:7:22-64
+19-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:7:5-67
+19-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:7:22-64
 20    <uses-permission android:name="android.permission.WAKE_LOCK" />
-20-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:8:5-68
-20-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:8:22-65
+20-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:8:5-68
+20-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:8:22-65
 21    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
-21-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:9:5-79
-21-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:9:22-76
+21-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:9:5-79
+21-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:9:22-76
 22    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
 22-->[com.google.firebase:firebase-iid:21.0.1] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\74515ef9b8bd3627347c98a3a961702f\jetified-firebase-iid-21.0.1\AndroidManifest.xml:26:5-82
 22-->[com.google.firebase:firebase-iid:21.0.1] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\74515ef9b8bd3627347c98a3a961702f\jetified-firebase-iid-21.0.1\AndroidManifest.xml:26:22-79
@@ -55,29 +55,29 @@
 26-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\03d3bc5ff5e4f19a125f2c319f68236e\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
 27
 28    <application
-28-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:14:5-63:19
+28-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:14:5-63:19
 29        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 29-->[androidx.core:core:1.3.2] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\0d2ee4fd02ecfe777ab90f554693f370\core-1.3.2\AndroidManifest.xml:24:18-86
 30        android:icon="@mipmap/launcher_icon"
-30-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:15:9-45
+30-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:15:9-45
 31        android:label="Move"
-31-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:16:9-29
+31-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:16:9-29
 32        android:requestLegacyExternalStorage="true" >
-32-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:17:9-52
+32-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:17:9-52
 33        <activity
-33-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:18:9-52:20
+33-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:18:9-52:20
 34            android:name="com.move.move_app_1.MainActivity"
-34-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:19:13-41
+34-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:19:13-41
 35            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-35-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:20:13-163
+35-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:20:13-163
 36            android:hardwareAccelerated="true"
-36-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:21:13-47
+36-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:21:13-47
 37            android:launchMode="singleTop"
-37-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:22:13-43
+37-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:22:13-43
 38            android:theme="@style/LaunchTheme"
-38-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:23:13-47
+38-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:23:13-47
 39            android:windowSoftInputMode="adjustResize" >
-39-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:24:13-55
+39-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:24:13-55
 40
 41            <!--
 42                 Specifies an Android theme to apply to this Activity as soon as
@@ -86,11 +86,11 @@
 45                 to determine the Window background behind the Flutter UI.
 46            -->
 47            <meta-data
-47-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:29:13-31:57
+47-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:29:13-31:57
 48                android:name="io.flutter.embedding.android.NormalTheme"
-48-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:30:17-72
+48-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:30:17-72
 49                android:resource="@style/NormalTheme" />
-49-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:31:17-54
+49-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:31:17-54
 50            <!--
 51                 Displays an Android View that continues showing the launch screen
 52                 Drawable until Flutter paints its first frame, then this splash
@@ -99,31 +99,31 @@
 55                 Flutter's first frame.
 56            -->
 57            <meta-data
-57-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:37:13-39:66
+57-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:37:13-39:66
 58                android:name="io.flutter.embedding.android.SplashScreenDrawable"
-58-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:38:17-81
+58-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:38:17-81
 59                android:resource="@drawable/launch_background" />
-59-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:39:17-63
+59-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:39:17-63
 60
 61            <intent-filter>
-61-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:41:13-44:29
+61-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:41:13-44:29
 62                <action android:name="android.intent.action.MAIN" />
-62-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:42:17-69
-62-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:42:25-66
+62-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:42:17-69
+62-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:42:25-66
 63
 64                <category android:name="android.intent.category.LAUNCHER" />
-64-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:43:17-77
-64-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:43:27-74
+64-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:43:17-77
+64-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:43:27-74
 65            </intent-filter>
 66            <intent-filter>
-66-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:46:13-49:29
+66-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:46:13-49:29
 67                <action android:name="FLUTTER_NOTIFICATION_CLICK" />
-67-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:47:17-69
-67-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:47:25-66
+67-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:47:17-69
+67-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:47:25-66
 68
 69                <category android:name="android.intent.category.DEFAULT" />
-69-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:48:17-76
-69-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:48:27-73
+69-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:48:17-76
+69-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:48:27-73
 70            </intent-filter>
 71        </activity>
 72        <!--
@@ -131,56 +131,56 @@
 74             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
 75        -->
 76        <meta-data
-76-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:55:9-57:33
+76-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:55:9-57:33
 77            android:name="flutterEmbedding"
-77-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:56:13-44
+77-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:56:13-44
 78            android:value="2" />
-78-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:57:13-30
+78-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:57:13-30
 79        <meta-data
-79-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:59:9-61:71
+79-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:59:9-61:71
 80            android:name="com.google.android.geo.API_KEY"
-80-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:60:13-58
+80-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:60:13-58
 81            android:value="AIzaSyBK1kGDJ1uLgpttyQfz0kQix70FpTqM7QQ" />
-81-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:61:13-68
+81-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:61:13-68
 82
 83        <service
-83-->[:firebase_storage] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
+83-->[:firebase_storage] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
 84            android:name="com.google.firebase.components.ComponentDiscoveryService"
-84-->[:firebase_storage] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:8:18-89
+84-->[:firebase_storage] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:8:18-89
 85            android:directBootAware="true"
 85-->[com.google.firebase:firebase-common:19.5.0] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\dd968dfc43917b6cad7560bdeef17a27\jetified-firebase-common-19.5.0\AndroidManifest.xml:35:13-43
 86            android:exported="false" >
 86-->[com.google.firebase:firebase-storage:19.2.1] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\a71099b96f124263fbb9238043175982\jetified-firebase-storage-19.2.1\AndroidManifest.xml:32:13-37
 87            <meta-data
-87-->[:firebase_storage] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
+87-->[:firebase_storage] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
 88                android:name="com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar"
-88-->[:firebase_storage] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:10:17-126
+88-->[:firebase_storage] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:10:17-126
 89                android:value="com.google.firebase.components.ComponentRegistrar" />
-89-->[:firebase_storage] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
+89-->[:firebase_storage] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
 90            <meta-data
-90-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:34:13-36:85
+90-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:34:13-36:85
 91                android:name="com.google.firebase.components:io.flutter.plugins.firebase.messaging.FlutterFirebaseAppRegistrar"
-91-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:35:17-128
+91-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:35:17-128
 92                android:value="com.google.firebase.components.ComponentRegistrar" />
-92-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:36:17-82
+92-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:36:17-82
 93            <meta-data
-93-->[:cloud_firestore] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
+93-->[:cloud_firestore] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
 94                android:name="com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar"
-94-->[:cloud_firestore] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:10:17-134
+94-->[:cloud_firestore] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:10:17-134
 95                android:value="com.google.firebase.components.ComponentRegistrar" />
-95-->[:cloud_firestore] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
+95-->[:cloud_firestore] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
 96            <meta-data
-96-->[:firebase_auth] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
+96-->[:firebase_auth] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
 97                android:name="com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar"
-97-->[:firebase_auth] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:10:17-124
+97-->[:firebase_auth] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:10:17-124
 98                android:value="com.google.firebase.components.ComponentRegistrar" />
-98-->[:firebase_auth] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
+98-->[:firebase_auth] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
 99            <meta-data
-99-->[:firebase_core] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
+99-->[:firebase_core] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
 100                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
-100-->[:firebase_core] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:10:17-124
+100-->[:firebase_core] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:10:17-124
 101                android:value="com.google.firebase.components.ComponentRegistrar" />
-101-->[:firebase_core] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
+101-->[:firebase_core] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
 102            <meta-data
 102-->[com.google.firebase:firebase-storage:19.2.1] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\a71099b96f124263fbb9238043175982\jetified-firebase-storage-19.2.1\AndroidManifest.xml:33:13-35:85
 103                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
@@ -236,90 +236,90 @@
 130        </service>
 131
 132        <provider
-132-->[:image_picker] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:11:9-19:20
+132-->[:image_picker] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:11:9-19:20
 133            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
-133-->[:image_picker] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:12:13-82
+133-->[:image_picker] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:12:13-82
 134            android:authorities="com.move.move_app_1.flutter.image_provider"
-134-->[:image_picker] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:13:13-74
+134-->[:image_picker] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:13:13-74
 135            android:exported="false"
-135-->[:image_picker] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:14:13-37
+135-->[:image_picker] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:14:13-37
 136            android:grantUriPermissions="true" >
-136-->[:image_picker] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:15:13-47
+136-->[:image_picker] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:15:13-47
 137            <meta-data
-137-->[:image_picker] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:16:13-18:75
+137-->[:image_picker] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:16:13-18:75
 138                android:name="android.support.FILE_PROVIDER_PATHS"
-138-->[:image_picker] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:17:17-67
+138-->[:image_picker] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:17:17-67
 139                android:resource="@xml/flutter_image_picker_file_paths" />
-139-->[:image_picker] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:18:17-72
+139-->[:image_picker] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:18:17-72
 140        </provider>
 141
 142        <service
-142-->[:location] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\location\intermediates\library_manifest\release\AndroidManifest.xml:11:9-15:56
+142-->[:location] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\location\intermediates\library_manifest\release\AndroidManifest.xml:11:9-15:56
 143            android:name="com.lyokone.location.FlutterLocationService"
-143-->[:location] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\location\intermediates\library_manifest\release\AndroidManifest.xml:12:13-71
+143-->[:location] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\location\intermediates\library_manifest\release\AndroidManifest.xml:12:13-71
 144            android:enabled="true"
-144-->[:location] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\location\intermediates\library_manifest\release\AndroidManifest.xml:13:13-35
+144-->[:location] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\location\intermediates\library_manifest\release\AndroidManifest.xml:13:13-35
 145            android:exported="false"
-145-->[:location] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\location\intermediates\library_manifest\release\AndroidManifest.xml:14:13-37
+145-->[:location] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\location\intermediates\library_manifest\release\AndroidManifest.xml:14:13-37
 146            android:foregroundServiceType="location" />
-146-->[:location] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\location\intermediates\library_manifest\release\AndroidManifest.xml:15:13-53
+146-->[:location] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\location\intermediates\library_manifest\release\AndroidManifest.xml:15:13-53
 147        <service
-147-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:12:9-15:72
+147-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:12:9-15:72
 148            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingBackgroundService"
-148-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:13:13-107
+148-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:13:13-107
 149            android:exported="false"
-149-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:14:13-37
+149-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:14:13-37
 150            android:permission="android.permission.BIND_JOB_SERVICE" />
-150-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:15:13-69
+150-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:15:13-69
 151        <service
-151-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:16:9-22:19
+151-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:16:9-22:19
 152            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingService"
-152-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:17:13-97
+152-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:17:13-97
 153            android:exported="false" >
-153-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:18:13-37
+153-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:18:13-37
 154            <intent-filter>
-154-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:19:13-21:29
+154-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:19:13-21:29
 155                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-155-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:20:17-78
-155-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:20:25-75
+155-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:20:17-78
+155-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:20:25-75
 156            </intent-filter>
 157        </service>
 158
 159        <receiver
-159-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:24:9-31:20
+159-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:24:9-31:20
 160            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingReceiver"
-160-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:25:13-98
+160-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:25:13-98
 161            android:exported="true"
-161-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:26:13-36
+161-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:26:13-36
 162            android:permission="com.google.android.c2dm.permission.SEND" >
-162-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:27:13-73
+162-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:27:13-73
 163            <intent-filter>
-163-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:28:13-30:29
+163-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:28:13-30:29
 164                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-164-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:29:17-81
-164-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:29:25-78
+164-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:29:17-81
+164-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:29:25-78
 165            </intent-filter>
 166        </receiver>
 167
 168        <provider
-168-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:39:9-43:38
+168-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:39:9-43:38
 169            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingInitProvider"
-169-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:40:13-102
+169-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:40:13-102
 170            android:authorities="com.move.move_app_1.flutterfirebasemessaginginitprovider"
-170-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:41:13-88
+170-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:41:13-88
 171            android:exported="false"
-171-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:42:13-37
+171-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:42:13-37
 172            android:initOrder="99" />
-172-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:43:13-35
+172-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:43:13-35
 173
 174        <activity
-174-->[:url_launcher] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:8:9-11:74
+174-->[:url_launcher] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:8:9-11:74
 175            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
-175-->[:url_launcher] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:9:13-74
+175-->[:url_launcher] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:9:13-74
 176            android:exported="false"
-176-->[:url_launcher] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:10:13-37
+176-->[:url_launcher] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:10:13-37
 177            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
-177-->[:url_launcher] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:11:13-71
+177-->[:url_launcher] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:11:13-71
 178        <activity
 178-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\db87e25fdbcdbcca7d7d970a827ebf19\jetified-firebase-auth-20.0.1\AndroidManifest.xml:27:9-44:20
 179            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
@@ -339,8 +339,8 @@
 185-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\db87e25fdbcdbcca7d7d970a827ebf19\jetified-firebase-auth-20.0.1\AndroidManifest.xml:34:25-66
 186
 187                <category android:name="android.intent.category.DEFAULT" />
-187-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:48:17-76
-187-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:48:27-73
+187-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:48:17-76
+187-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:48:27-73
 188                <category android:name="android.intent.category.BROWSABLE" />
 188-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\db87e25fdbcdbcca7d7d970a827ebf19\jetified-firebase-auth-20.0.1\AndroidManifest.xml:37:17-78
 188-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\db87e25fdbcdbcca7d7d970a827ebf19\jetified-firebase-auth-20.0.1\AndroidManifest.xml:37:27-75
@@ -374,8 +374,8 @@
 203-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\db87e25fdbcdbcca7d7d970a827ebf19\jetified-firebase-auth-20.0.1\AndroidManifest.xml:34:25-66
 204
 205                <category android:name="android.intent.category.DEFAULT" />
-205-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:48:17-76
-205-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:48:27-73
+205-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:48:17-76
+205-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:48:27-73
 206                <category android:name="android.intent.category.BROWSABLE" />
 206-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\db87e25fdbcdbcca7d7d970a827ebf19\jetified-firebase-auth-20.0.1\AndroidManifest.xml:37:17-78
 206-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\db87e25fdbcdbcca7d7d970a827ebf19\jetified-firebase-auth-20.0.1\AndroidManifest.xml:37:27-75
@@ -406,8 +406,8 @@
 220-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\db87e25fdbcdbcca7d7d970a827ebf19\jetified-firebase-auth-20.0.1\AndroidManifest.xml:69:25-86
 221
 222                <category android:name="android.intent.category.DEFAULT" />
-222-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:48:17-76
-222-->C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\android\app\src\main\AndroidManifest.xml:48:27-73
+222-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:48:17-76
+222-->C:\Users\ravzc\Desktop\move_app_1 -Release-\android\app\src\main\AndroidManifest.xml:48:27-73
 223            </intent-filter>
 224        </service>
 225        <!--
@@ -423,10 +423,10 @@
 232            android:exported="false" >
 232-->[com.google.firebase:firebase-messaging:21.0.1] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\054e28d384d170ac9b15fd090d9cee2d\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:31:13-37
 233            <intent-filter android:priority="-500" >
-233-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:19:13-21:29
+233-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:19:13-21:29
 234                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-234-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:20:17-78
-234-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:20:25-75
+234-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:20:17-78
+234-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:20:25-75
 235            </intent-filter>
 236        </service>
 237
@@ -439,10 +439,10 @@
 241            android:permission="com.google.android.c2dm.permission.SEND" >
 241-->[com.google.firebase:firebase-iid:21.0.1] C:\Users\ravzc\.gradle\caches\transforms-2\files-2.1\74515ef9b8bd3627347c98a3a961702f\jetified-firebase-iid-21.0.1\AndroidManifest.xml:40:13-73
 242            <intent-filter>
-242-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:28:13-30:29
+242-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:28:13-30:29
 243                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-243-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:29:17-81
-243-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 - copia 28_04\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:29:25-78
+243-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:29:17-81
+243-->[:firebase_messaging] C:\Users\ravzc\Desktop\move_app_1 -Release-\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:29:25-78
 244            </intent-filter>
 245        </receiver> <!-- Needs to be explicitly declared on P+ -->
 246        <uses-library

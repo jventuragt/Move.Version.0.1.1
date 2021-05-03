@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\ravzc\\Desktop\\move_app_1 - copia 28_04\\build\\firebase_storage\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ne\\values-ne.xml",
+            "outputFile": "C:\\Users\\ravzc\\Desktop\\move_app_1 -Release-\\build\\firebase_storage\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ne\\values-ne.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ravzc\\.gradle\\caches\\transforms-2\\files-2.1\\8569080f7e28ff297deb8df09584b9fb\\core-1.1.0\\res\\values-ne\\values-ne.xml",
@@ -57,7 +57,7 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\ravzc\\Desktop\\move_app_1 - copia 28_04\\build\\firebase_storage\\intermediates\\res\\merged\\release\\values-ne\\values-ne.xml",
+            "outputFile": "C:\\Users\\ravzc\\Desktop\\move_app_1 -Release-\\build\\firebase_storage\\intermediates\\res\\merged\\release\\values-ne\\values-ne.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ravzc\\.gradle\\caches\\transforms-2\\files-2.1\\8569080f7e28ff297deb8df09584b9fb\\core-1.1.0\\res\\values-ne\\values-ne.xml",

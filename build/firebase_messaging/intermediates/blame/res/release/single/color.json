@@ -1,14 +1,14 @@
 [
     {
-        "merged": "C:\\Users\\ravzc\\Desktop\\move_app_1 - copia 28_04\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\Users\\ravzc\\.gradle\\caches\\transforms-2\\files-2.1\\01c63897a8b1510a297b231251081245\\jetified-play-services-base-17.0.0\\res\\color\\common_google_signin_btn_text_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\ravzc\\Desktop\\move_app_1 - copia 28_04\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_tint.xml",
+        "merged": "C:\\Users\\ravzc\\Desktop\\move_app_1 -Release-\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_tint.xml",
         "source": "C:\\Users\\ravzc\\.gradle\\caches\\transforms-2\\files-2.1\\01c63897a8b1510a297b231251081245\\jetified-play-services-base-17.0.0\\res\\color\\common_google_signin_btn_tint.xml"
     },
     {
-        "merged": "C:\\Users\\ravzc\\Desktop\\move_app_1 - copia 28_04\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "merged": "C:\\Users\\ravzc\\Desktop\\move_app_1 -Release-\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
         "source": "C:\\Users\\ravzc\\.gradle\\caches\\transforms-2\\files-2.1\\01c63897a8b1510a297b231251081245\\jetified-play-services-base-17.0.0\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\ravzc\\Desktop\\move_app_1 -Release-\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\ravzc\\.gradle\\caches\\transforms-2\\files-2.1\\01c63897a8b1510a297b231251081245\\jetified-play-services-base-17.0.0\\res\\color\\common_google_signin_btn_text_light.xml"
     }
 ]
